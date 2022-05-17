@@ -36,10 +36,10 @@ output: Target variable 0:"LOW", 1:"HIGH"
 </p>
 By using logistic regression method, we get the percentace of accuracy 87%
 
-## How to use
-You may clone the repository and open the streamlit apps to test the prediction.
+## How to run the Streamlit apps
+You may clone the repository and open the Streamlit apps to test the prediction.
 
-Steps to run the streamlit apps:
+Steps to run the Streamlit apps:
 1. Open command prompt
 2. Activate environment
    Example: conda activate tf_env
